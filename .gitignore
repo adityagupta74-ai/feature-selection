@@ -1,0 +1,16 @@
+# Data files (large / re-downloadable)
+data/*.csv
+
+# OS files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.env
+venv/
